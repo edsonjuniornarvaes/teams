@@ -9,7 +9,7 @@ import {
 
 import theme from "./src/theme";
 
-import Loading from "@components/Loading";
+import { Loading } from "@components/Loading";
 import { Routes } from "./src/routes";
 
 export default function App() {

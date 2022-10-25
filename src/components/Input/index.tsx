@@ -18,4 +18,3 @@ export function Input({ inputRef, ...rest }: Props) {
     />
   );
 }
-Footer;
